@@ -55,7 +55,6 @@
 1	Sol Ring
 1	Solemn Simulacrum
 1	Steel Hellkite
-1	Stuffy Doll
 1	Sulfuric Vortex
 1	Thousand-Year Elixir
 1	Thran Dynamo
