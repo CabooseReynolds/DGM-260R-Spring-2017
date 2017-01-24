@@ -63,3 +63,4 @@
 1	[[Vanguard's Shield]]
 1	[[Windborn Muse]]
 1	[[Wrath of God]]
+1 [[gisela, the broken blade]]

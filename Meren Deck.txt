@@ -92,3 +92,4 @@
 1	Woodfall Primus
 1	Woodland Cemetery
 1	Yavimaya Elder
+1 Gonti, lord of luxury
