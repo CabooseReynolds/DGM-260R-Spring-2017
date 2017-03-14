@@ -1,0 +1,6 @@
+Select children first, then the active selection with the UV map.
+
+Then go to Modify
+
+Replace Objects
+make sure to select Instance
